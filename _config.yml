@@ -7,12 +7,12 @@ remote_theme: "mmistakes/minimal-mistakes"
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #"sunrise" #"dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Henry Koleoso"
-title_separator          : "-"
+title_separator          :
 name                     : "Henry Koleoso"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -69,9 +69,9 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter: https://twitter.com/HenyKoleoso
-  username               : @HenyKoleoso
-facebook:
+twitter                  :
+  username               :
+facebook                 :
   username               :
   app_id                 :
   publisher              :
@@ -92,11 +92,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Henry Koleoso"
+  name             :
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Software Engineer @ WorldPay"
   location         : "Cambridge"
-  email            : Henry_Koleoso@hotmail.co.uk
+  email            : "Henry_Koleoso@hotmail.co.uk"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -111,13 +111,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : henrykoleoso
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : https://twitter.com/HenyKoleoso
+  twitter          :
   vine             :
   weibo            :
   xing             :
