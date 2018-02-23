@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>GithubPages-Website</title>
+ <title>Henry Koleoso</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000/"/>
- <updated>2018-02-21T07:12:51-06:00</updated>
+ <updated>2018-02-22T04:27:11-06:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
    <name></name>
-   <email></email>
+   <email>Henry_Koleoso@hotmail.co.uk</email>
  </author>
 
  
  <entry>
    <title>Introducing Hyde</title>
-   <link href="http://0.0.0.0:4000/hyde/2013/12/28/introducing-hyde.html"/>
+   <link href="http://0.0.0.0:4000/hyde/introducing-hyde/"/>
    <updated>2013-12-28T00:00:00-06:00</updated>
-   <id>http://0.0.0.0:4000/hyde/2013/12/28/introducing-hyde</id>
+   <id>http://0.0.0.0:4000/hyde/introducing-hyde</id>
    <content type="html">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
 &lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
@@ -58,9 +58,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://0.0.0.0:4000/hyde/2012/02/07/example-content.html"/>
+   <link href="http://0.0.0.0:4000/hyde/example-content/"/>
    <updated>2012-02-07T00:00:00-06:00</updated>
-   <id>http://0.0.0.0:4000/hyde/2012/02/07/example-content</id>
+   <id>http://0.0.0.0:4000/hyde/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -207,9 +207,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://0.0.0.0:4000/hyde/2012/02/06/whats-jekyll.html"/>
+   <link href="http://0.0.0.0:4000/hyde/whats-jekyll/"/>
    <updated>2012-02-06T00:00:00-06:00</updated>
-   <id>http://0.0.0.0:4000/hyde/2012/02/06/whats-jekyll</id>
+   <id>http://0.0.0.0:4000/hyde/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
